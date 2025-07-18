@@ -1,4 +1,4 @@
-# cicada-nanodrone-lab
+# cicada-nanodrone
 
 This is my personal research project focused on developing an insect-scale surveillance drone inspired by cicadas.
 
